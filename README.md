@@ -20,9 +20,6 @@ Anexando imagem para deixar mais atrativo.
 
 ![alt text](https://github.com/portfolioparacienciadedados/Portfolio_Ciencia_Dados/blob/main/Post_043%20-%20Portfolio%20parte%201.png)
 
-**Parte 2 da postagem do Linkedin**
-(https://github.com/portfolioparacienciadedados/Portfolio_Ciencia_Dados/blob/main/Post_044%20-%20Portfolio%20parte%202%20-%20GitHub.png)
-
 Obrigado.
 
 
