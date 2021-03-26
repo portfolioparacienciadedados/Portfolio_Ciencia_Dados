@@ -5,11 +5,11 @@ Criado por Odemir Depieri Jr  linkedin: https://www.linkedin.com/in/odemir-depie
 Esse perfil é uma amostra sobre como as pessoas podem publicar seus projetos de ciência de dados.
 
 Aqui você pode hospedar:
--Os dados seu projeto;
--Incluir imagens;
--Base de dados;
--Apresentações;
--Outros.
+*Os dados seu projeto
+*Incluir imagens
+*Base de dados
+*Apresentações
+*Outros
 
 Além disso, pode criar um storytelling para as empresas entender sobre do que se trata seu projeto.
 
