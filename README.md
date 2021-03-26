@@ -11,6 +11,6 @@ Aqui você pode hospedar:
 
 Além disso, pode criar um storytelling para as empresas enterem seu projeto e dar uma prévia do conteúdo.
 
-( Incluir Imagem )
+![alt text](https://github.com/portfolioparacienciadedados/Portfolio_Ciencia_Dados/blob/main/Post_043%20-%20Portfolio%20parte%201.png)
 
 Obrigado.
