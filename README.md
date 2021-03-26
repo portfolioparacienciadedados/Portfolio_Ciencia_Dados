@@ -1,6 +1,6 @@
 # Portfolio_Ciencia_Dados
 
-Criado por (https://www.linkedin.com/in/odemir-depieri-jr/)
+Criado por Odemir Depieri Jr  linkedin: https://www.linkedin.com/in/odemir-depieri-jr/
 
 Esse perfil é uma amostra sobre como as pessoas podem publicar seus projetos de ciência de dados.
 
@@ -22,7 +22,7 @@ Anexando imagem para deixar mais atrativo.
 
 
 **Parte 2 da postagem do Linkedin**
-https://github.com/portfolioparacienciadedados/Portfolio_Ciencia_Dados/blob/main/Post_044%20-%20Portfolio%20parte%202%20-%20GitHub.png
+![alt text](https://github.com/portfolioparacienciadedados/Portfolio_Ciencia_Dados/blob/main/Post_044%20-%20Portfolio%20parte%202%20-%20GitHub.png)
 
 Obrigado.
 
